@@ -13,3 +13,4 @@ Feature: OrangeHRM Logo
     Examples:
       | username | password |
       | Admin    | admin123 |
+      | Admin    | admin    |
